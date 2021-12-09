@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lucida Calligraphy', 'ALGERIAN';
+    color: red;
+    background-image: url('static/images/backg.jpg');
+}
+
+.container {
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    text-align: center;
+    left: 30%;
+}
+
+.form {
+    width: 500px;
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 15%;
+}
+
+.header {
+    font-family: 'CASTELLAR';
+    font-size: 100%;
+    color: red;
+    padding-right: 5px;
+}
+
+.container {
+    background-image: url('static/images/backg.jpg')
+}
